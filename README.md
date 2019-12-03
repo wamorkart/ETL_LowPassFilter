@@ -1,8 +1,8 @@
-Addition of low pass filter 
+Addition of low pass filter
 
 ** Runs studied
    - HPK 3.1 4x4 Pre-rad (UCSC board) [160 V]: 6636,6640,6642,6643,6644,6656,6657,6658,6659,6660
    - HPK 3.1 4x4 Pre-rad (FNAL board) [195 V]: 12395, 12397, 12401, 12403, 12407
-   - HPK 3.1 4x4 Pre-rad (UCSC board) [195 V]: 
-   - HPK 3.1 4x4 5E14    (UCSC board) [500 V]:
-   - HPK 3.1 4x4 5E14    (UCSC board) [540 V]:
+   - HPK 3.1 4x4 Pre-rad (UCSC board) [195 V]: 6735, 6737, 6738, 6739, 6741, 6742, 6743, 6744, 6745, 6746, 6747, 6748
+   - HPK 3.1 4x4 5E14    (UCSC board) [500 V]: 9542, 9544, 9548, 9550, 9552, 9554, 9556, 9558, 9563, 9565, 9567, 9569
+   - HPK 3.1 4x4 5E14    (UCSC board) [540 V]: 10404, 10406, 10408, 10410, 10413, 10415, 10418, 10420, 10424, 10425, 10427, 10429, 10430
